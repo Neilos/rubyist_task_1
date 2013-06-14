@@ -1,5 +1,6 @@
+require 'minitest'
 require 'minitest/autorun'
-require './array'
+require '../lib/array'
 
 class ArrayTest < Minitest::Test
 
